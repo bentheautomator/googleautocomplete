@@ -1,0 +1,9 @@
+.pac-container {
+    z-index: 10000 !important;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  .maps-autocomplete-enabled {
+    background-color: green !important;
+  }
+  
