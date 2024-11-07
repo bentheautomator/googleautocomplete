@@ -1,8 +1,6 @@
 const DEFAULT_HOSTS = [
     "https://maps.googleapis.com/*",
     "*://*.merchantos.com/*",
-    "*://*.cloudfront.net/*",
-    "file:///*test.html"
 ];
 
 // Load hosts
