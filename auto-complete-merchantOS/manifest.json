@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Google Address Autocomplete by Automator Consulting Group",
-  "version": "1.4",
+  "name": "Google Address Autocomplete (MerchantOS) by Automator Consulting Group",
+  "version": "1.5",
   "description": "Fast, accurate Google Address Autocomplete for MerchantOS customer forms",
   "homepage_url": "https://manualnomore.com",
   "author": "support@manualnomore.com",
@@ -12,8 +12,6 @@
       "extension_pages": "script-src 'self'; object-src 'self'"
   },
   "permissions": [
-      "activeTab",
-      "scripting",
       "storage"
   ],
   "options_page": "options.html",
